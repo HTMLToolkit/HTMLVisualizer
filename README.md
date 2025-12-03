@@ -41,7 +41,7 @@ No installation required. Open HTMLVisualizer.html in a browser, or use the GitH
 
 ## Contributing
 
-Feel free to contribute by submitting issues or pull requests.
+Please feel free to contribute by submitting issues or pull requests.
 
 ## License
 
